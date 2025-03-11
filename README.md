@@ -72,6 +72,7 @@ Please note that the use of jammers is illegal in many countries, including Pola
 |                     |                      |                        | Switch out        |  3V3  |
 
 #Section Developed by [emensta](https://github.com/EmenstaNougat/)
+
 ## Flashing the firmware
 ### via webflasher (Easy)  
 ![ESP32-BlueJammerFlasher](https://dwdwpld.pages.dev/ESP32BlueJammerFlasher.png)                                                                 
