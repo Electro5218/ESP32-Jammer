@@ -1,8 +1,10 @@
+# ESP32 Jammer
+<p>The device is a multi-functional jammer designed to disrupt wireless communication across a variety of frequencies, including 2.4GHz broadband, Bluetooth, and remote control (RC) signals. It works by emitting a wide-band noise signal that interferes with the targeted frequency ranges, rendering devices operating on these frequencies ineffective. The jammer is capable of blocking common Wi-Fi networks operating in the 2.4GHz band, Bluetooth connections used for short-range communication, as well as controlling devices like RC cars, drones, and other remote-controlled gadgets. With its compact design, this jammer is highly effective in areas where wireless communication needs to be interrupted or prevented, ensuring that devices relying on these frequencies become inoperable within a radius of 30m.</p>
+
 ![IMG_0097 (1)](https://github.com/user-attachments/assets/3f2474b4-8632-43ad-9fc6-dd3d6c00ee1b)
 ![IMG_0080 (1)](https://github.com/user-attachments/assets/7278e68d-2f59-4723-91ac-e92a19350350)
 ![68747470733a2f2f64776477706c642e70616765732e6465762f45535033322d426c75654a616d6d6572427940656d656e7374612e6a7067](https://github.com/user-attachments/assets/d64c5610-a4a5-4af5-9df6-9373b230e8a4)
-# ESP32 Jammer
-<p>The device is a multi-functional jammer designed to disrupt wireless communication across a variety of frequencies, including 2.4GHz broadband, Bluetooth, and remote control (RC) signals. It works by emitting a wide-band noise signal that interferes with the targeted frequency ranges, rendering devices operating on these frequencies ineffective. The jammer is capable of blocking common Wi-Fi networks operating in the 2.4GHz band, Bluetooth connections used for short-range communication, as well as controlling devices like RC cars, drones, and other remote-controlled gadgets. With its compact design, this jammer is highly effective in areas where wireless communication needs to be interrupted or prevented, ensuring that devices relying on these frequencies become inoperable within a radius of 30m.</p>
+
 # Parts
 
   [Resistor](https://pl.aliexpress.com/item/1005007987815579.html?aff_fcid=1e343476a15f43959b9e5f1eca4ca941-1741732129651-05363-_oBV1Q1Z&tt=CPS_NORMAL&aff_fsk=_oBV1Q1Z&aff_platform=shareComponent-detail&sk=_oBV1Q1Z&aff_trace_key=1e343476a15f43959b9e5f1eca4ca941-1741732129651-05363-_oBV1Q1Z&terminal_id=5bcfda95327e49539b9b6782303a1b72&afSmartRedirect=y) 4.7k Ohm<br />
