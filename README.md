@@ -29,7 +29,7 @@ Please note that the use of jammers is illegal in many countries, including Pola
 [nRF24l01 + pinout](https://dwdwpld.pages.dev/nRF24L01pinout.png)
 
 <h1>HSPI</h1>
-| Name     | Character |
-| ---      | ---       |
-| Backtick | `         |
-| Pipe     | \|        |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
