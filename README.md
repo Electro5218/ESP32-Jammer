@@ -29,7 +29,14 @@ Please note that the use of jammers is illegal in many countries, including Pola
 [nRF24l01 + pinout](https://dwdwpld.pages.dev/nRF24L01pinout.png)
 
 <h1>HSPI</h1>
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+
+| 1st nRF24L01 module Pin | HSPI Pin (ESP32) | 10uf capacitor |
+|---------------|------------------|--------------------|
+| VCC           | 3.3V             | (+) capacitor |
+| GND           | GND              | (-) capacitor |
+| CE            | GPIO 16          |
+| CSN           | GPIO 15          |
+| SCK           | GPIO 14          |
+| MOSI          | GPIO 13          |
+| MISO          | GPIO 12          |
+| IRQ           |                  |
