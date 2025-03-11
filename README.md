@@ -135,7 +135,7 @@ If your ESP32 is not showing up in the device list or won't get recognized you w
 
 ![3DCaseView](https://dwdwpld.pages.dev/V4-ESP32-BlueJammer3DCaseView.png)
 
-#Demonstration of use in a controlled enviroment
+# Demonstration of use in a controlled enviroment
 
 https://github.com/user-attachments/assets/e65cf1ae-07dd-475e-8ab0-da2af3e6bdc5
 
