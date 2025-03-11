@@ -29,7 +29,7 @@ Please note that the use of jammers is illegal in many countries, including Pola
 [nRF24l01 + pinout](https://dwdwpld.pages.dev/nRF24L01pinout.png)
 
 <h1>HSPI</h1>
-| 1st nRF24L01 module Pin | HSPI Pin (ESP32) | 10uF capacitor |
-| ---      | ---       | ---      | 
-| VCC | 3.3V         | (+) capacitor |
-| GND     | GND        | (-) capacitor |
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
