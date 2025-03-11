@@ -70,3 +70,65 @@ Please note that the use of jammers is illegal in many countries, including Pola
 |                     |                      | OUT +                  | Switch in         |       |
 |                     |                      | OUT -                  |                   |  GND  |
 |                     |                      |                        | Switch out        |  3V3  |
+
+## Flashing the firmware
+### via webflasher (Easy)  
+![ESP32-BlueJammerFlasher](https://dwdwpld.pages.dev/ESP32BlueJammerFlasher.png)                                                                 
+I've created a webflasher to make it super easy for you to flash your ESP32 chip with the ESP32-BlueJammer firmware of your choice!  
+- Visit [ESP32-BlueJammerFlasher](https://esp32-bluejammerflasher.pages.dev)
+- Connect your ESP32 via a data USB cable
+- Choose your firmware, chip and connect
+- Flash the firmware of your choice :D
+
+### via BlueFlasher.exe -Windows application (Easy)  
+<img src="https://dwdwpld.pages.dev/BlueFlasherMain.jpg" width="650" height="auto">
+
+The BlueFlasher.exe lets you flash any available firmware with no more than 3 clicks! It is always the latest up-to-date firmware!  
+- Download the [BlueFlasher.exe](https://github.com/EmenstaNougat/ESP32-BlueJammer/raw/refs/heads/main/BlueFlasher/BlueFlasher.exe)
+- run the application [(Image)](https://dwdwpld.pages.dev/BlueFlasherMain.jpg)
+- simply choose the COM port of your ESP32 [(Image)](https://dwdwpld.pages.dev/BlueFlasherCOM.jpg)
+- hold the "Boot" button on your ESP32 from now on
+- choose the firmware you want to flash
+- release the "Boot" button on your ESP32
+- wait for the firmware to be flashed (check console) :D
+
+https://github.com/user-attachments/assets/9c6b7322-9d39-48a1-9ef4-535c6ff64681
+
+**Developed by [9dl](https://github.com/9dl)**
+
+### Flashing ESP32 via binary files (Advanced)  
+- Download the **.bin files** available on this repository
+- Use any flasher of your choice
+- Flash it :D
+
+If your ESP32 is not showing up in the device list or won't get recognized you will need to have [THESE DRIVERS INSTALLED](https://www.silabs.com/documents/public/software/CP210x_Windows_Drivers.zip) which can be found on my [Discord server](https://discord.gg/yNGhKxzqUE) too!
+
+## 3D printed case
+#### The 3D printed case fits ONLY a PCB size of 7cm x 5.5cm and you'll need to drill out 2 holes according for the M3 screws to fit through the PCB!
+<h3 align="center">Access to the ESP32 micro-USB port, aswell as to both EN & Boot buttons</h3>
+
+![ESP32MicroUSB](https://dwdwpld.pages.dev/ESP32-BlueJammerMicroUsb.jpg)
+
+<h3 align="center">TP4056 charging port access with charging state indicator holes (red=charging - blue=fully charged)</h3>
+
+![USB_C_chargerWithIndicators](https://dwdwpld.pages.dev/ESP32-BlueJammerUSB_C_chargerWithIndicators.jpg)
+
+<h3 align="center">On/off switch with blue indicator LED</h3>
+
+![OnOffSwitch](https://dwdwpld.pages.dev/ESP32-BlueJammerOnOffSwitch.jpg)
+
+
+
+## V3-Case 3D model view [[download .stl](https://dwdwpld.pages.dev/V3-ESP32-BlueJammerBy@emensta3DCase.stl)]
+
+<h3 align="center">Here's a look at the V3 2 antenna version itself</h3>
+
+![3DCaseView](https://dwdwpld.pages.dev/V3-ESP32-BlueJammer3DCaseView.png)
+
+
+
+## V4-Case 3D model view [[download .stl](https://dwdwpld.pages.dev/V4-ESP32-BlueJammerBy@emensta3DCase.stl)]
+
+<h3 align="center">Here's a look at the V4 3 antenna version itself</h3>
+
+![3DCaseView](https://dwdwpld.pages.dev/V4-ESP32-BlueJammer3DCaseView.png)
