@@ -40,3 +40,33 @@ Please note that the use of jammers is illegal in many countries, including Pola
 | MOSI          | GPIO 13          |
 | MISO          | GPIO 12          |
 | IRQ           |                  |
+
+<h1>VSPI</h1>
+
+| 2nd nRF24L01 module Pin | VSPI Pin (ESP32) | 10uf capacitor |
+|---------------|------------------|--------------------|
+| VCC           | 3.3V             | (+) capacitor |
+| GND           | GND              | (-) capacitor |
+| CE            | GPIO 22          |
+| CSN           | GPIO 21          |
+| SCK           | GPIO 18          |
+| MOSI          | GPIO 23          |
+| MISO          | GPIO 19          |
+| IRQ           |                  |
+
+<h1>Status LED</h1>
+
+| ESP32 | 4.7k Ohm Resistor | 3mm Status LED (blue)|
+|-------|-------------------|----------------------|
+|  GND  |                   |       (-) LED        |
+|       |      Resistor     |       (+) LED        |
+|GPIO27 |      Resistor     |                      |
+
+### Battery modification
+| 3.7V Li-Ion battery | JST-PH2 connector    | TP4056 Charging Module | Mini Slide Switch | ESP32 |
+|---------------------|----------------------|------------------------|-------------------|-------|
+| (+) Battery         | (+) JST-PH2          | Bat +                  |                   |       |
+| (-) Battery         | (-) JST-PH2          | Bat -                  |                   |       |
+|                     |                      | OUT +                  | Switch in         |       |
+|                     |                      | OUT -                  |                   |  GND  |
+|                     |                      |                        | Switch out        |  3V3  |
