@@ -71,7 +71,7 @@ Please note that the use of jammers is illegal in many countries, including Pola
 |                     |                      | OUT -                  |                   |  GND  |
 |                     |                      |                        | Switch out        |  3V3  |
 
-#Section Developed by [emensta](https://github.com/EmenstaNougat/)
+# Section Developed by [emensta](https://github.com/EmenstaNougat/)
 
 ## Flashing the firmware
 ### via webflasher (Easy)  
