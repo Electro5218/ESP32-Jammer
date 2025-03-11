@@ -71,6 +71,7 @@ Please note that the use of jammers is illegal in many countries, including Pola
 |                     |                      | OUT -                  |                   |  GND  |
 |                     |                      |                        | Switch out        |  3V3  |
 
+#Section Developed by [emensta](https://github.com/EmenstaNougat/)
 ## Flashing the firmware
 ### via webflasher (Easy)  
 ![ESP32-BlueJammerFlasher](https://dwdwpld.pages.dev/ESP32BlueJammerFlasher.png)                                                                 
@@ -132,3 +133,9 @@ If your ESP32 is not showing up in the device list or won't get recognized you w
 <h3 align="center">Here's a look at the V4 3 antenna version itself</h3>
 
 ![3DCaseView](https://dwdwpld.pages.dev/V4-ESP32-BlueJammer3DCaseView.png)
+
+#Demonstration of use in a controlled enviroment
+
+https://github.com/user-attachments/assets/e65cf1ae-07dd-475e-8ab0-da2af3e6bdc5
+
+
