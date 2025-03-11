@@ -10,7 +10,7 @@ Please note that the use of jammers is illegal in many countries, including Pola
 
 # Parts
 
-  [Resistor](https://pl.aliexpress.com/item/1005007987815579.html?aff_fcid=1e343476a15f43959b9e5f1eca4ca941-1741732129651-05363-_oBV1Q1Z&tt=CPS_NORMAL&aff_fsk=_oBV1Q1Z&aff_platform=shareComponent-detail&sk=_oBV1Q1Z&aff_trace_key=1e343476a15f43959b9e5f1eca4ca941-1741732129651-05363-_oBV1Q1Z&terminal_id=5bcfda95327e49539b9b6782303a1b72&afSmartRedirect=y) 4.7k Ohm<br />
+  [Resistors](https://pl.aliexpress.com/item/1005007987815579.html?aff_fcid=1e343476a15f43959b9e5f1eca4ca941-1741732129651-05363-_oBV1Q1Z&tt=CPS_NORMAL&aff_fsk=_oBV1Q1Z&aff_platform=shareComponent-detail&sk=_oBV1Q1Z&aff_trace_key=1e343476a15f43959b9e5f1eca4ca941-1741732129651-05363-_oBV1Q1Z&terminal_id=5bcfda95327e49539b9b6782303a1b72&afSmartRedirect=y) 4.7k Ohm<br />
   [Status Led: 3 mm LED](https://pl.aliexpress.com/item/1005006898362384.html?spm=a2g0o.order_list.order_list_main.16.42211c24tHlYuV&gatewayAdapt=glo2pol)<br />
   [JST PH 2.0 Cables and Connectors](https://pl.aliexpress.com/item/32665588344.html?spm=a2g0o.order_list.order_list_main.21.42211c24tHlYuV&gatewayAdapt=glo2pol)<br />
   [Switch Handle length 4mm](https://pl.aliexpress.com/item/4001207529493.html?spm=a2g0o.order_list.order_list_main.26.42211c24tHlYuV&gatewayAdapt=glo2pol)<br />
