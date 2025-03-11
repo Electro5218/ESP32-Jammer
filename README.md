@@ -23,3 +23,13 @@ Please note that the use of jammers is illegal in many countries, including Pola
   [ESP32 Dev Module](https://pl.aliexpress.com/item/1005006613312645.html?spm=a2g0o.order_list.order_list_main.62.42211c24tHlYuV&gatewayAdapt=glo2pol) Recommended: ESP32-32U CP2102<br />
   [M3 screws&nuts kit for the case](https://pl.aliexpress.com/item/1005002855686647.html?aff_fcid=6a3cf658a8c7443480b183b7236a4a21-1741732689780-09433-_oC24YXH&tt=CPS_NORMAL&aff_fsk=_oC24YXH&aff_platform=shareComponent-detail&sk=_oC24YXH&aff_trace_key=6a3cf658a8c7443480b183b7236a4a21-1741732689780-09433-_oC24YXH&terminal_id=5bcfda95327e49539b9b6782303a1b72&afSmartRedirect=y)
 
+# ESP32-nRF24L01+ pinout + battery mod
+<p>Here are both pinouts for HSPI and VSPI. You need both nRF24L01 modules connected in order to achieve full capability of the device.</p>
+
+[nRF24l01 + pinout](https://dwdwpld.pages.dev/nRF24L01pinout.png)
+
+<h1>HSPI</h1>
+| 1st nRF24L01 module Pin | HSPI Pin (ESP32) | 10uF capacitor |
+| ---      | ---       | ---      | 
+| VCC | 3.3V         | (+) capacitor |
+| GND     | GND        | (-) capacitor |
